@@ -72,8 +72,7 @@ public class CalculateScoreFromModelFile {
 
 
     /**
-     * This method populates the model details and model features maps by reading model txt files from
-     * cloud storage.
+     * This method populates the model details and model features maps by reading model txt files.
      *
      * @throws IOException
      * @throws GeneralSecurityException
